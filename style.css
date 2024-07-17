@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-image: url("./bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 714.06px;
+}
+
+
+.ilk {
+  color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.group {
+  width: 36.56px;
+  width: 41.11px;
+  top: 25.81;
+  left: 1256.13;
+  border: 1px;
+}
+
+.nav_list{
+  display: flex;
+  
+}
+
+.Make {
+  color: aliceblue;
+  width: 99%;
+  font-size: 80px;
+}
+
+.yanyana {
+  display: flex;
+  flex-direction: row;
+}
+
+.kicik {
+  color: white;
+  width: 517.24px;
+  top: 387.3px;
+  left: 126.13px;
+}
+
+.sekil {
+  display: flex;
+  justify-content: center;
+  width: 20px;
+}
